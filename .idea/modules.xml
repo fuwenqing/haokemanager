@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-generator/haoke-manage-dubbo-server-generator.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-generator/haoke-manage-dubbo-server-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources-dubbo-interface/haoke-manage-dubbo-server-house-resources-dubbo-interface.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources-dubbo-interface/haoke-manage-dubbo-server-house-resources-dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources-dubbo-service/haoke-manage-dubbo-server-house-resources-dubbo-service.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manage-dubbo-server-house-resources/haoke-manage-dubbo-server-house-resources-dubbo-service/haoke-manage-dubbo-server-house-resources-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-api-server/haoke-manager-api-server.iml" filepath="$PROJECT_DIR$/haoke-manager-api-server/haoke-manager-api-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manager-dubbo-server.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haoke-manager-dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-manager-dubbo-server/haokemanagedubboserverhouseresources.iml" filepath="$PROJECT_DIR$/haoke-manager-dubbo-server/haokemanagedubboserverhouseresources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haokemanager.iml" filepath="$PROJECT_DIR$/haokemanager.iml" />
+    </modules>
+  </component>
+</project>

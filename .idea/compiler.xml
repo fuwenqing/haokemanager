@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="haoke-manage-dubbo-server-generator" />
+        <module name="haoke-manage-dubbo-server-house-resources-dubbo-interface" />
+        <module name="haoke-manage-dubbo-server-house-resources-dubbo-service" />
+        <module name="haoke-manager-api-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ggg" target="1.8" />
+      <module name="haoke-manage-dubbo-server-generator" target="1.8" />
+      <module name="haoke-manage-dubbo-server-house-resources" target="1.8" />
+      <module name="haoke-manage-dubbo-server-house-resources-dubbo-interface" target="1.8" />
+      <module name="haoke-manage-dubbo-server-house-resources-dubbo-service" target="1.8" />
+      <module name="haoke-manager-api-server" target="1.8" />
+      <module name="haoke-manager-dubbo-server" target="1.8" />
+      <module name="haoke-manager-dubbo-server-houser-esources" target="1.8" />
+      <module name="haokemanagedubboserverhouseresources" target="1.8" />
+      <module name="haokemanager" target="1.8" />
+      <module name="haokemanagerapiserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
